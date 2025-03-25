@@ -1,2 +1,4 @@
 #Testing commit files
-print ("This is a test")
+text =  ("This is a test")
+for letter in text:
+    print(letter)
